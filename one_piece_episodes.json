@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "generated_at": "2025-05-29T17:39:45.209Z",
+    "total_episodes": 2,
+    "successful": 2,
+    "failed": 0,
+    "skipped_fillers": 0,
+    "downloaded": 0,
+    "download_failed": 2,
+    "auto_download_enabled": true,
+    "download_path": "./downloads",
+    "version": "3.0-TURBO-DOWNLOAD"
+  },
+  "episodes": {
+    "ep480": {
+      "mediafire_url": "https://www.mediafire.com/file/fez7oesyd6hfx7o/[Witanime.com]+OP+EP+480+FHD.zip/file",
+      "google_drive_url": "https://drive.google.com/uc?id=1ulNUuu_kswlJq8V8D_2mAE-sdRKRnrtI&export=download",
+      "download_status": "failed",
+      "download_error": "Download failed with exit code: 1"
+    },
+    "ep481": {
+      "mediafire_url": "https://www.mediafire.com/file/tatv7z70unsw8qo/[Witanime.com]+OP+EP+481+FHD.zip/file",
+      "google_drive_url": "https://drive.google.com/uc?id=1vQRSNNdZOJKqN1UgNrorNkzk5O_kBOMv&export=download",
+      "download_status": "failed",
+      "download_error": "Download failed with exit code: 1"
+    }
+  }
+}
